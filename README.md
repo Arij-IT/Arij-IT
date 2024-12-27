@@ -14,7 +14,7 @@
 - 👀 I’m interested in Web Development and App Development <br/><br/>
 - 🌱 I’m currently learning MERN stack <br/><br/>
 - 💬 Ask me about WEB <br/><br/>
-- 📫 How to reach me kanishkraj600@gmail.com <br/><br/>
+- 📫 How to reach me ad084851@gmail.com <br/><br/>
 - ⚡ Fun fact: I’m an introvert <br/><br/>
 
 </td>
@@ -27,7 +27,7 @@
 ## Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanishk-raj-1a6345226/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/its_your_kanishk_here)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dcnt.arijit)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/kanishk_raj)
 
 ---
