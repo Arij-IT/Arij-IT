@@ -50,9 +50,9 @@
 
 <div display-flex flex-wrap align-items-center gap-5 item-center>
   
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=KanishkRajTech&theme=dracula)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arij-IT&theme=dracula)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KanishkRajTech&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Arij-IT&show_icons=true&theme=radical)
 
 </div>
